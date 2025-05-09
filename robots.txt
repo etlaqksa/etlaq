@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://etlaq.netlify.app/sitemap.xml
